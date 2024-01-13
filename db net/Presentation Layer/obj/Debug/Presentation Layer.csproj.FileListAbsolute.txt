@@ -1,0 +1,15 @@
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Presentation Layer.exe
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Presentation Layer.pdb
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Bussines layer.dll
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Data Layer.dll
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Bussines layer.pdb
+D:\ConsoleApp\Presentation Layer\Presentation Layer\bin\Debug\Data Layer.pdb
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation_Layer.Form1.resources
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.exe
+D:\ConsoleApp\Presentation Layer\Presentation Layer\obj\Debug\Presentation Layer.pdb

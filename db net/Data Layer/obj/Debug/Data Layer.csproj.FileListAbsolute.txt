@@ -1,0 +1,6 @@
+D:\ConsoleApp\Presentation Layer\Data Layer\bin\Debug\Data Layer.dll
+D:\ConsoleApp\Presentation Layer\Data Layer\bin\Debug\Data Layer.pdb
+D:\ConsoleApp\Presentation Layer\Data Layer\obj\Debug\Data Layer.csproj.AssemblyReference.cache
+D:\ConsoleApp\Presentation Layer\Data Layer\obj\Debug\Data Layer.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\Presentation Layer\Data Layer\obj\Debug\Data Layer.dll
+D:\ConsoleApp\Presentation Layer\Data Layer\obj\Debug\Data Layer.pdb
