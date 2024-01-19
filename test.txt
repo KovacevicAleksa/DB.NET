@@ -1,12 +1,13 @@
 windows form App .net fram (PresentationLayer)
+ne brisi iz presentationLayera program.cs
 soultion add newproject class Libary .net fram (BussinessLayer)
 soultion add newproject class Libary .net fram (DataLayer)
 View > sqlserverObjectExplorer > localdb>Databases>add new db > Faculty > Tabeles > add new tables > .. > update >
 dbo.Tabel> view data > unos podataka
 Datalayer > newfoloder>Models> add new class> (public!)>
-public int/string/decimal Id { get; set; } //sql server .net maping
 Datalayer > add new class> Constant.cs (public!)> localdb > nazivbaze > properties> ConnectionString
 Datalayer > add new class> StudentRepository.cs (public!)> 
+public int/string/decimal Id { get; set; } //sql server .net maping
 PresentationLayer> form1.cs>toolbox: ListBox(Ispisteksta)/labela/TextBox/button
 >properties(Design>Name)
 form1.cs>view code
